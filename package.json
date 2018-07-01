@@ -1,0 +1,14 @@
+{
+  "name": "@distdns/plug",
+  "version": "0.1.1",
+  "description": "dWeb DNS Proxy Library For Re-Routing Domains To Any IP You Plug.",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Distributed Webs Project, LLC. <labs@distributedwebs.org>"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
